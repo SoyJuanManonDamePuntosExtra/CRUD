@@ -1,0 +1,24 @@
+{
+  "name": "trjuan",
+  "version": "1.0.0",
+  "description": "Proyecto sobre dependencias con node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoyJuanManonDamePuntosExtra/CRUD.git"
+  },
+  "author": "Juan Alejandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoyJuanManonDamePuntosExtra/CRUD/issues"
+  },
+  "homepage": "https://github.com/SoyJuanManonDamePuntosExtra/CRUD#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
